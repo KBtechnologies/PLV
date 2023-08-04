@@ -90,6 +90,9 @@ Since the PLV needs to be useable as a fully-fledged car replacement by most peo
 Driver and Passengers are hereby defined at 2m height and 125kg weight to allow both for safety margins and more realistic load than 75kg @ 1,75m.
 
 ### Acknowledgements
+#### Studies
+- Alina Racu et. al. ["Clean and lean - Battery metals demand from electrifying passenger transport"](https://www.transportenvironment.org/wp-content/uploads/2023/07/Battery-metals-demand-from-electrifying-passenger-transport-2.pdf)
+  - Calling for mandating [smaller and lighter EVs in lieu of SUVs](https://www.heise.de/news/Elektromobilitaet-Studie-plaediert-fuer-Kleinwagen-statt-E-SUV-9234414.html) via EU Efficency Regulations.
 #### People
 - [Roland Jeske](https://twitter.com/RolandJeske), amidst his extensive input in a [very long and branched twitter conversation](https://twitter.com/RolandJeske/status/1568281250623881216).
 #### Standards
