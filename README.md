@@ -102,6 +102,7 @@ Driver and Passengers are hereby defined at 2m height and 125kg weight to allow 
   - In fact, the [VW XL1](https://en.wikipedia.org/wiki/Volkswagen_1-litre_car) is just a facelifted [VW Scooter](https://de.wikipedia.org/wiki/Konzeptfahrzeuge_von_Volkswagen#1986:_VW_Scooter) with a turbocharged Diesel engine.
     - At [only 200 built](https://de.wikipedia.org/wiki/VW_XL1#Serienbau), it's basically just an absurdly expensive showcase of "German Engineering" that is road-legal.
       - So it basically it an [EcoHipster alternative to a rare Porsche](https://www.youtube.com/watch?v=ozqSdnkYxJM).
+  - Still the [low drag and excellent fuel mileage is impressive and noteworthy](https://www.youtube.com/watch?v=a2BoM2qdrSw).
 - [Messerschmitt KR200](https://en.wikipedia.org/wiki/Messerschmitt_Kabinenroller)
   - A post-WW2 "cabin motorcycle" that reused much of the old stock of Messerschmitt parts, like the transparent canopy top and "steeringh wheel" from a fighter plane.
 - Several small vehicles, like the [GECO 8.0](https://aj-emobile.de/neufahrzeuge/elektroautos/78/elektroauto-geco-twin-8.0-7.5kw-inkl.-72v100ah-batterien-strassenzulassung-max-78-km/h) which is a highway-legal car in Germany,
