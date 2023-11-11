@@ -3,9 +3,11 @@
 ### Specification
 #### Version 0.1
 
+---
 ### Abstract
 The "Personal Light Vehicle" or PLV is designed to be a new 'Quasi-Standard' for affordable, individual motorized mobility.
 
+##
 ## Design Goals
 ### General 
 #### A PLV is not a car - at least not as per [EU Vehicle Class M1](https://de.wikipedia.org/wiki/EG-Fahrzeugklasse#Klasse_M_(Personenbef%C3%B6rderung)).
@@ -13,11 +15,13 @@ Instead it's meant to be the "mininmum viable product" of a vehicle - even if th
 
 The core paradigm is to design and build the most affordable, compact yet safe means of transport that is road-legal.
 
+###
 ### Efficiency
 The PLV is designed to be the counter-development to the flood of [Super Useless Vehicles](https://en.wikipedia.org/wiki/Sport_utility_vehicle#Nicknames) that are inherently wasteful beyond reason and rationale and are mostly being purchased for ego reasons and rarely out of practical reason or necessity.
 
 As such it should put efficiency and minimalism first to the maximum legally possible extent.
 
+###
 ### Economy
 The PLV needs to be economically priced and within reason.
 - Supercars in the price ranges of [€ 400.000](https://en.wikipedia.org/wiki/Gumpert_Nathalie) and [€ 111.000](https://en.wikipedia.org/wiki/Volkswagen_1-litre_car#Production_and_sales) are completely out of the question and comletely fail at this goal.
@@ -25,6 +29,8 @@ The PLV needs to be economically priced and within reason.
     - A target price half if not lower than the cheapest car is desireable.
     - Base price should be at € 5.000 [as of 06.2022 - adjustments per inflation are allowed if unavoidable].
 	
+---
+##
 ## Bare Minimum Specification
 This needs to be clarified amidst the need to make it a quasi-standard.
 ### Speed and Class
@@ -47,19 +53,24 @@ Like PLV 2, but maximum Speed is 45km/h.
 #### PLV 4
 Like PLV 2, but considered a "Trike" due to using an engine with >50cm³ or 4kW & being faster than 45km/h.
 - These may legally fall under motorcycle licenses A1, A2 or A depending on whether these have <15kW, 15-35kW or >35kW total output.
-#### PLV 5
 These are based off the L5e classification and thus are limited by 15kW engine output.
+#### PLV 5
+Like PLV 4, but with engine Output limited to 35kW.
 #### PLV 6
-Like PLV 5, but with engine Output limited to 35kW.
+Like PLV 4, but with engine Output exceeding 35kW.
 #### PLV 7
-Like PLV 5, but with engine Output exceeding 35kW.
+These would be any other trike design.
+#### PLV 8
+These would be any other compact vehicle trying to fill that nieche.
 
+---
+
+###
 ### Vehicle Exterior Features
 - Whilst no minimum nor maximum dimensions will be decalred, the core principles of the PLV concept demand efficient use of space and materials.
 - Legally mandated minimums and features have to be included.
 
 ### Vehicle Specifications
-
 #### Basic Features
 - It must have an enclosed cabin that makes it safe and comfortable to drive all-year around in common weather in Germany.
   - A "canopy" that also acts as door and either folds to the roadside or is being pushed/pulled to the front or rear is desireable.
@@ -69,9 +80,11 @@ Like PLV 5, but with engine Output exceeding 35kW.
   - Accessibility features should be accounted for.
 - It should use a 4/5-point belt harness up front and 3-point belts at the rear so that wearing a helmet is not legally mandated.
 
+####
 #### General Form
 To allow the most efficient design, a "Tricycle" form with two wheels in the back and 1 steerable wheel in the front is desireable.
 
+#####
 ##### Engine Placement
 If technically possible, it's recommended to have a "mid engine" just barely before the rear axle and positioned as low as technically possible.
 
@@ -79,6 +92,7 @@ If the vehicle is having direct drive electrical motors integrated at the wheels
 
 This is done to both take use of the aerodynamical causality that results in a trunk as well as increase both stability and handling.
 
+####
 #### Useable Capacity
 Since the PLV needs to be useable as a fully-fledged car replacement by most people, it needs to be useable as such.
 - Besides the driver, it must also support the following load configurations:
@@ -89,6 +103,9 @@ Since the PLV needs to be useable as a fully-fledged car replacement by most peo
 5. 2 Passengers and 2 10l canisters. 
 Driver and Passengers are hereby defined at 2m height and 125kg weight to allow both for safety margins and more realistic load than 75kg @ 1,75m.
 
+---
+
+###
 ### Acknowledgements
 #### Studies
 - Alina Racu et. al. ["Clean and lean - Battery metals demand from electrifying passenger transport"](https://www.transportenvironment.org/wp-content/uploads/2023/07/Battery-metals-demand-from-electrifying-passenger-transport-2.pdf)
@@ -125,3 +142,10 @@ These may fulfill the nieches for some, but they are either quite crammed and th
 - Also a lot of these are discontinued 
   - Many have no chance of being re-certified as originally built under current safety requirements.
     - Extensive re-engineering would be required that would only keep the original looks from the outside.
+
+####
+#### Other Media
+- NotJustBikes et. al. [Why SUVs are bad](https://www.youtube.com/watch?v=jN7mSXMruEo)
+  - Specifically pointing out the inefficiencies in terms of [emissions](https://www.youtube.com/watch?v=jN7mSXMruEo&t=1014s), [pricing](https://www.youtube.com/watch?v=jN7mSXMruEo&t=884s) and espechally [space](https://www.youtube.com/watch?v=jN7mSXMruEo&t=919s), reducing [parking space and increase the need for space](https://www.youtube.com/watch?v=jN7mSXMruEo&t=933s).
+
+---

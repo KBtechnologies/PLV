@@ -1,0 +1,6 @@
+# .gitignore
+## IDE files
+.idea
+*.iml
+out
+gen
