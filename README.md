@@ -115,8 +115,8 @@ Driver and Passengers are hereby defined at 2m height and 125kg weight to allow 
 #### Standards
 - [Kei Car](https://en.wikipedia.org/wiki/Kei_car) as an incentive towards smaller and more efficient vehicles.
 #### Projects & Products
-- [VW L1](https://de.wikipedia.org/wiki/Konzeptfahrzeuge_von_Volkswagen#2002:_VW_1L_%E2%80%93_das_Ein-Liter-Auto_%E2%86%92_XL1) for the general design.
-  - In fact, the [VW XL1](https://en.wikipedia.org/wiki/Volkswagen_1-litre_car) is just a facelifted [VW Scooter](https://de.wikipedia.org/wiki/Konzeptfahrzeuge_von_Volkswagen#1986:_VW_Scooter) with a turbocharged Diesel engine.
+- [VW L1](https://de.wikipedia.org/wiki/Konzeptfahrzeuge_von_Volkswagen#2002:_VW_1L_%E2%80%93_das_Ein-Liter-Auto_%E2%86%92_XL1) for the [general design](https://www.youtube.com/watch?v=50OzCk0RtG4).
+  - In fact, the [VW XL1](https://en.wikipedia.org/wiki/Volkswagen_1-litre_car) is just a [facelifted](https://www.youtube.com/watch?v=UmRTX_Hr7Ls) [VW Scooter](https://de.wikipedia.org/wiki/Konzeptfahrzeuge_von_Volkswagen#1986:_VW_Scooter) with a turbocharged Diesel engine.
     - At [only 200 built](https://de.wikipedia.org/wiki/VW_XL1#Serienbau), it's basically just an absurdly expensive showcase of "German Engineering" that is road-legal.
       - So it basically it an [EcoHipster alternative to a rare Porsche](https://www.youtube.com/watch?v=ozqSdnkYxJM).
   - Still the [low drag and excellent fuel mileage is impressive and noteworthy](https://www.youtube.com/watch?v=a2BoM2qdrSw).
