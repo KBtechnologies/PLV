@@ -137,6 +137,9 @@ Driver and Passengers are hereby defined at 2m height and 125kg weight to allow 
       - It sadly seems to [suffer from tipping-over issues](https://youtu.be/xzK012GjjX4?t=43) unlike the original Version.
 - [Carver One](https://en.wikipedia.org/wiki/Carver_(automotive_company))
   - A [tilting three-wheeler](https://youtu.be/LY4pmvaibJA) that is utilizing a [banked turning system](https://en.wikipedia.org/wiki/Carver_(automotive_company)#Dynamic_Vehicle_Control_system) to make it drive more dynamically...
+- [Piaggio Ape](https://en.wikipedia.org/wiki/Piaggio_Ape)
+  - An italian-made three-wheeler based off a [50cm³ single-cylinder](http://www.piaggiocommercialvehicles.com/de_DE/modelle/ape/ape-50/) 4-stroke or [single cylinder Diesel engine](http://www.piaggiocommercialvehicles.com/de_DE/modelle/ape/ape-classic/).
+    - The 4-seater [Calessino](http://www.piaggiocommercialvehicles.com/de_DE/modelle/ape/ape-calessino-new/) and the [400cm³ TM703](https://en.wikipedia.org/wiki/Piaggio_Ape#Model_history) have been discontinued, and the latter one got replaced with the [Porter NP6](https://en.wikipedia.org/wiki/Piaggio_Porter#Second_generation_(2021)) which is a regular body-on-frame minitruck with 1,5l inline-4 Euro6 Diesel engine, supplemented with the three-wheeled [MyMoover Scooter](https://www.piaggio.com/de_DE/mymoover/) in the lower end, which is a [125cm³ single seater with 1+2 wheels and classified as small motorcycle](https://en.wikipedia.org/wiki/Piaggio_MyMoover).
 
 These may fulfill the nieches for some, but they are either quite crammed and thus less accessible and/or quite restricted to make them fulfill criteria like L2e & L5e vehicle classes without being unsellable expensive.
 - Also a lot of these are discontinued 
