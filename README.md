@@ -121,6 +121,7 @@ Driver and Passengers are hereby defined at 2m height and 125kg weight to allow 
       - So it basically it an [EcoHipster alternative to a rare Porsche](https://www.youtube.com/watch?v=ozqSdnkYxJM).
   - Still the [low drag and excellent fuel mileage is impressive and noteworthy](https://www.youtube.com/watch?v=a2BoM2qdrSw).
 - [Peel P50](https://en.wikipedia.org/wiki/Peel_P50), a 49cm³ two-stroke powered Cabin Scooter which is known as [the smallest production car](https://www.youtube.com/watch?v=dJfSS0ZXYdo).
+  - Not to be confused with the [Jeremy Clarkson P45](https://www.youtube.com/watch?v=aFdBcYN3sNw), which is more of a *UK road-legal* shitpost than serious vehicle.
 - [L'Œuf électrique](https://en.wikipedia.org/wiki/L%27%C5%92uf_%C3%A9lectrique), an electric car designed in 1938 and build in 1942, notable for it's big round bubble design and namesake "egg"-shape.
 - [Messerschmitt KR200](https://en.wikipedia.org/wiki/Messerschmitt_Kabinenroller)
   - A post-WW2 "cabin motorcycle" that reused much of the old stock of Messerschmitt parts, like the transparent canopy top and "steeringh wheel" from a fighter plane.
