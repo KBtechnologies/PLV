@@ -42,7 +42,7 @@ These definitions exist mainly to allow for a distinction that may be necessary 
 
 For consisten Terminology we'll hereby define the following types:
 #### PLV 1
-This basically is classified as either an "electric wheelchair" and thus will be equipeed and locked down to remain license- insurance- and tax-free, being regulated like an "enclosed bike".
+This basically is classified as either an "electric wheelchair" and thus will be equiped and locked down to remain license- insurance- and tax-free, being regulated like an "enclosed bike".
 - This means a top speed of 6km/h in the EU & Germany.
 #### PLV 2
 This should fulfill the EU vehicle class L2e and be classified as a "three-wheeled, enclosed scooter", only requiring an easy to obtain driving permit an insurance plate.
@@ -68,6 +68,8 @@ These would be any other compact vehicle trying to fill that nieche.
 ###
 ### Vehicle Exterior Features
 - Whilst no minimum nor maximum dimensions will be decalred, the core principles of the PLV concept demand efficient use of space and materials.
+  - However sticking with [Kei Car Dimensions](https://en.wikipedia.org/wiki/Kei_car#A-segment_comparison) should offer a good hint at the desireable dimensions.
+    - This means a lenght of 2,80-3,40m, a width of 1,00-1,48m and a height of less than 2,00m.
 - Legally mandated minimums and features have to be included.
 
 ### Vehicle Specifications
