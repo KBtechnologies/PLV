@@ -120,6 +120,8 @@ Driver and Passengers are hereby defined at 2m height and 125kg weight to allow 
     - At [only 200 built](https://de.wikipedia.org/wiki/VW_XL1#Serienbau), it's basically just an absurdly expensive showcase of "German Engineering" that is road-legal.
       - So it basically it an [EcoHipster alternative to a rare Porsche](https://www.youtube.com/watch?v=ozqSdnkYxJM).
   - Still the [low drag and excellent fuel mileage is impressive and noteworthy](https://www.youtube.com/watch?v=a2BoM2qdrSw).
+- [Peel P50](https://en.wikipedia.org/wiki/Peel_P50), a 49cm³ two-stroke powered Cabin Scooter which is known as [the smallest production car](https://www.youtube.com/watch?v=dJfSS0ZXYdo).
+- [L'Œuf électrique](https://en.wikipedia.org/wiki/L%27%C5%92uf_%C3%A9lectrique), an electric car designed in 1938 and build in 1942, notable for it's big round bubble design and namesake "egg"-shape.
 - [Messerschmitt KR200](https://en.wikipedia.org/wiki/Messerschmitt_Kabinenroller)
   - A post-WW2 "cabin motorcycle" that reused much of the old stock of Messerschmitt parts, like the transparent canopy top and "steeringh wheel" from a fighter plane.
 - Several small vehicles, like the [GECO 8.0](https://aj-emobile.de/neufahrzeuge/elektroautos/78/elektroauto-geco-twin-8.0-7.5kw-inkl.-72v100ah-batterien-strassenzulassung-max-78-km/h) which is a highway-legal car in Germany,
